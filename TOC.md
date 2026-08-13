@@ -1,6 +1,6 @@
 # TOC
 
-- [00-01. 기계 설계](pages/00-01-mechanical-design.md)
+- [00. 기계 설계](pages/00-mechanical-design.md)
 - [01-01. 전체 학습 주제 개요 및 학습 목표 이해](pages/01-01-learning-overview.md)
 - [01-02. 금속 자원과 화학 원소 기호 이해](pages/01-02-metal-resources-and-elements.md)
 - [01-03. 기계 재료의 종류와 특성](pages/01-03-mechanical-materials.md)
