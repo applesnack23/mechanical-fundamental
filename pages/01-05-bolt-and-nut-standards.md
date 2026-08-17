@@ -6,6 +6,8 @@
 
 하지만 이는 불필요한 내용이 아니라, 우리가 사용하는 재료를 정확히 이해하기 위한 기초 단계였다.
 
+---
+
 ## 재료를 이해해야 하는 이유
 
 우리가 사용하는 대부분의 금속 재료는 순수 철, 순수 알루미늄이 아니다.
@@ -29,6 +31,8 @@
 - 각재, 형강 등
 
 이제 우리는 이 기초 지식을 바탕으로 실제 부품 설계 단계로 넘어가게 된다.
+
+---
 
 ## 직접 제작하는 부품 vs 기성품
 
@@ -63,6 +67,8 @@
 
 이들은 모두 기성품이다.
 
+---
+
 ### 설계자의 능력
 
 - 적절한 기성품을 찾는 능력
@@ -73,13 +79,19 @@
 
 따라서 표준품을 이해하는 것은 설계자의 매우 중요한 역량이다.
 
+---
+
 ## 볼트 (Bolt)
 
 볼트는 부품과 부품을 연결하기 위한 외나사(수나사)가 있는 체결 부품이다.
 
+---
+
 ### 머리 형태에 따른 분류
 
-- 유듀 렌치 볼트 (Hex Socket Head Cap Bolt)
+---
+
+## 유두 렌치 볼트 (Hex Socket Head Cap Bolt)
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-001.png)
     
@@ -95,7 +107,9 @@
         - 자동화 설비 프레임
         - 구조체 조립
         - 가장 일반적으로 사용됨
-- 무두 렌치 볼트 (Set Screw)
+---
+
+## 무두 렌치 볼트 (Set Screw)
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-002.png)
     
@@ -108,12 +122,14 @@
     - 사용
         - 축 고정
         - 모터, 감속기 체결
-- 접시 머리 렌치 볼트 (Countersunk Screw)
+---
+
+## 접시머리 렌치 볼트 (Countersunk Screw)
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-003.png)
     
     - 특징
-        - 체결 후 표면과 동일 높이
+    ## 볼트·너트·와셔 체결 후 표면과 동일 높이
         - 볼트 길이 측정이 머리를 포함
     - 장점
         - 외관이 매끄러움
@@ -123,7 +139,9 @@
     - 사용
         - 커버류
         - LM 가이드 주변
-- 둥근머리 볼트 (Button Bead)
+---
+
+## 둥근머리 볼트 (Button Head)
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-004.png)
     
@@ -137,7 +155,9 @@
     - 사용
         - 외장 커버
         - 인체 접촉 부위
-- 트러스 볼트 (Truss Head)
+---
+
+## 트러스 볼트 (Truss Head)
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-005.png)
     
@@ -151,62 +171,86 @@
         - 판재 고정
         - 가벼운 플라스틱 커버 (덕트, DIN-RAIL)
 
+---
+
 ### 공구 종류에 따른 분류
 
-- 렌치 볼트 (Hex Socket)
+---
+
+## 렌치 볼트 (Hex Socket)
     - 강한 체결력, 미려한 외과느 기계 설계에서 가장 많이 사용 됨
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-006.png)
     
-- 십자 머리 볼트 (Phillips)
+---
+
+## 십자머리 볼트 (Phillips)
     - 일반적으로 가장 많이 사용되는 방식이나 강한 힘을 전달하기 어려워 자동화에서는 잘 사용되지 않음
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-007.png)
     
-- 일자 드라이버 볼트 (Slotted)
+---
+
+## 일자 드라이버 볼트 (Slotted)
     - 구조가 단순하고 제작이 쉽다는 장점이 있으나 충격에 약하고 정밀한 토크제어가 어려움
     - 특수용이나 디자인 목적 외에는 잘 사용되지 않음
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-008.png)
     
-- 그 외 별렌치 (별핀렌치) 형태 (Torx)
+---
+
+## Torx 볼트
     - 유럽에서 많이 사용 되는 타입
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-009.png)
     
-- 너트 (Nut)
+---
+
+## 너트 (Nut)
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-010.png)
     
     - 내부 사사산이 있음
     - 볼트와 결합하여 체결
-- 서포트 볼트 (Support)
+---
+
+## 서포트 볼트 (Support)
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-011.png)
     
     - 양쪽 모두 암 나사산이면 서포트 너트로 분류
-- 와셔 (Washer)
+---
+
+## 스프링 와셔 (Spring Washer)
     - 스프링 와셔 (Spring Washer)
         
         ![image.png](../assets/01-05-bolt-and-nut-standards/asset-012.png)
         
         - 진동 풀림 방지
         - 반발력 제공
-    - 평 와셔 (Plat Washer)
+---
+
+## 평 와셔 (Flat Washer)
         
         ![image.png](../assets/01-05-bolt-and-nut-standards/asset-013.png)
         
         - 접촉 면적 증가
         - 표면 손상 방지
-    - 체결
+---
+
+## 볼트·너트·와셔 체결
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-014.png)
     
-- 샘스 볼트
+---
+
+## 샘스 볼트
     - 볼트 + 스프링 와셔, 평 와셔
     
     ![image.png](../assets/01-05-bolt-and-nut-standards/asset-015.png)
     
+
+---
 
 ## 정리
 

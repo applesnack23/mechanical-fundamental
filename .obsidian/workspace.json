@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "ab0bbb3b19c0d59f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e18c67033204f0b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc9c4dab9858c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "script/01-01-learning-overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-01-learning-overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f079ed06681e4b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a65c070ea9607a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42abadedc432c062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "1968bd032b0a0d8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "8cf76dac1a901507",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f679b337a54a177a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb8af68a5c63b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b0c6837d9521b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "marp/01-05-bolt-and-nut-standards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "32dd02075fffb8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "marp/01-05-bolt-and-nut-standards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "1a0756d6ab66e0e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "06f392995a785014",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "f6402f8a345a70a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "marp/01-05-bolt-and-nut-standards.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "7fc9c4dab9858c43",
+  "lastOpenFiles": [
+    "script/01-02-metal-resources-and-elements.md",
+    "pages/02-01-learning-overview.md",
+    "pages/01-02-metal-resources-and-elements.md",
+    "pages/00-mechanical-design.md",
+    "pages/01-01-learning-overview.md",
+    "marp/01-05-bolt-and-nut-standards.md",
+    "pages/02-04-conveyor-system-modeling.md",
+    "pages/02-03-servo-motor-kit-modeling.md",
+    "pages/02-02-3d-modeling-basics.md",
+    "pages/01-mechanical-design-basics.md",
+    "pages/01-05-bolt-and-nut-standards.md",
+    "pages/01-04-mechanical-tolerances.md",
+    "script/01-01-learning-overview.md",
+    "marp/01-02-metal-resources-and-elements.md",
+    "marp/01-01-learning-overview.md"
+  ]
+}
